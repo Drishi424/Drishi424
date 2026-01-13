@@ -61,19 +61,12 @@ A model that predicts whether a media piece is AI-generated vs real.
 
 ---
 
-## 📈 GitHub Stats
-
-![Drishi’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drishi424&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 Let’s connect and collaborate 🚀
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/drishi-kachchhawaha-49b807313  
-- 📧 **Email:** drishikachchhawaha@gmail.com  
-- 🐙 **GitHub:** https://github.com/Drishi424  
+- 📧 **Email:** drishikachchhawaha@gmail.com    
 
 ---
 
